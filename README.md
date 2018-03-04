@@ -1,7 +1,7 @@
 # yalu102-updatefriendly
 iOS jailbreak for 64-bit devices created by [qwertyoruiopz](https://twitter.com/qwertyoruiopz) and [marcograssi](marcograss).
 
-This is a modified build to make OTA updating to 10.3.3 possible. 
+This is a modified build to make OTA updating to 10.3.3 possible __without__ blobs.
 
 **THIS WILL ONLY WORK ON AN IPHONE 5S on 10.0.0 -> 10.2!**
 
