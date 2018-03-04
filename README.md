@@ -6,7 +6,7 @@ This is a modified build to make OTA updating to 10.3.3 possible.
 **THIS WILL ONLY WORK ON AN IPHONE 5S on 10.0.0 -> 10.2!**
 
 ## How?
-1. Jailbreak using original yalu102 (any other jailbreak)
+1. Jailbreak using original yalu102 (or any other jailbreak)
 2. Hook your iPhone 5s to your charger if you have a shitty battery.
 3. Go to Settings -> Display & Brightness -> Set autolock to __Never__.
 4. Download and run Cydia Eraser. This might take a while and/or several tries. Try to reboot if it's not working.
